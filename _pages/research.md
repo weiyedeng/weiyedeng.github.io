@@ -68,9 +68,9 @@ The general public greeted news of the American withdrawal from Afghanistan, end
 
 ## Selected Work in Progress
 
-* Deng, Rex Weiye. **Softening the Crisis: How Cultural Diplomacy Contributes to Interstate Reconciliations.** \[Manuscript upon request\]
+Deng, Rex Weiye. **Softening the Crisis: How Cultural Diplomacy Contributes to Interstate Reconciliations.** \[Manuscript upon request\]
 
-* Deng, Rex Weiye and [Haifeng Huang](https://www.hhuang.org/). **Cute Propaganda: A Blessing or A Curse?**
+Deng, Rex Weiye and [Haifeng Huang](https://www.hhuang.org/). **Cute Propaganda: A Blessing or A Curse?**
 
 
 
