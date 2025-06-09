@@ -23,7 +23,7 @@ Existing research suggests that autocrats face a dilemma: manipulating negative 
 
 \[2\] Deng, Rex Weiye. **Weaponizing Democracy’s Woes: Negative Propaganda and Regime Evaluations in Autocracies.** Revise and Resubmit, _The Journal of Politics_. 
 
-\[[Manuscipt](https://www.dropbox.com/scl/fi/sqvrdyzuavzod47wqw4s9/NegProp_Full.pdf?rlkey=nu7crtsjdrn6rvdf5co76tgll&st=s0pch4cx&dl=0)\]
+\[[Manuscipt](https://www.dropbox.com/scl/fi/1fb9szha8ex3pm7bovv1g/NegativePropaganda.pdf?rlkey=m382q7tv35qirgw3evzyt8ba1&st=qd32loxy&dl=0)\]
 
 <details><summary>Abstract</summary>
 
