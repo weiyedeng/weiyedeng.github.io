@@ -35,7 +35,7 @@ Historically, good governance in liberal democracies has been a critical driver 
 
 \[3\] Deng, Rex Weiye, [Taishi Muraoka](https://www.taishimuraoka.com/), and [Margit Tavits](https://sites.wustl.edu/mtavits/). **Exploiting Extremism: Strategic Responses of Radical Right Parties to Right-Wing Violence in Europe**. Under review. 
 
-\[Manuscript upon request\]
+\[[Manuscipt](https://www.dropbox.com/scl/fi/149g16qkyrj9kgdr10hjp/RightWingTerrorism.pdf?rlkey=z4xygrzmbzdtednucw3abftno&st=upcfd2ep&dl=0)\]
   
 <details><summary>Abstract</summary>
 
