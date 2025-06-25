@@ -6,7 +6,7 @@ title: "Research"
   
 ## R&R / Working Papers
 
-\[1\] Deng, Rex Weiye. **Screened Realities: How Entertainment Fosters Political Compliance in China.** Job market paper.
+\[1\] Deng, Rex Weiye. **Screened Realities: How Entertainment Fosters Political Compliance in Autocracies.** Job market paper.
 
 \[[Manuscipt](https://www.dropbox.com/scl/fi/isbdrin1zjo1fgea286n2/EntertainmentPropaganda.pdf?rlkey=d5st5mcs8dl5uq81ap7s1g7l5&st=wsfv8e1i&dl=0)\]
 
