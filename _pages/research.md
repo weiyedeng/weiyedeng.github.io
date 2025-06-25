@@ -8,14 +8,14 @@ title: "Research"
 
 \[1\] Deng, Rex Weiye. **Screened Realities: How Entertainment Fosters Political Compliance in China.** Job market paper.
 
-\[Manuscript upon request\]
+\[[Manuscipt](https://www.dropbox.com/scl/fi/isbdrin1zjo1fgea286n2/EntertainmentPropaganda.pdf?rlkey=d5st5mcs8dl5uq81ap7s1g7l5&st=wsfv8e1i&dl=0)\]
 
   *    <span style="font-size: 90%">[*Rebecca Morton Poster Award*](https://wp.nyu.edu/cesspoliticalscienceconference/rebecca-morton-poster-prize/), 2025 Rebecca B. Morton Conference on Experimental Political Science (New York University)</span>
   *    <span style="font-size: 90%">[*Timothy E. Cook Best Graduate Student Paper Award*](https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-23/#:~:text=The%20Cook%20Award%20recognizes%20the,previous%20year%27s%20APSA%20Annual%20Meeting.), APSA 2024</span>
 
 <details><summary>Abstract</summary>
 
-Existing research suggests that autocrats face a dilemma: manipulating negative information about regime performance can cause public backlash, but revealing such information can make the regime look incompetent and unaccountable. I argue that, to solve this dilemma, autocrats have relied on entertainment, where problems get revealed not in isolation but as part of a dramatized narrative that highlights the regime’s efforts to address them. Since such “problem-revealing entertainment” likely makes audiences immersed in its narratives, it has the potential to positively affect public perceptions of the regime. With a wide array of observational and experimental evidence, I demonstrate that China has systematically generated entertainment that disclose details of corruption while stressing its efforts to tackle it, and that these products improve citizens’ perceptions of the regime’s competence and accountability because of their immersive content. These findings illustrate how information manipulation through entertainment media strengthens authoritarian resilience.
+Existing research suggests that autocrats face a dilemma: manipulating negative information about regime performance can cause public backlash, but revealing such information can make the regime look incompetent and unaccountable. I argue that, to solve this dilemma, autocrats have relied on entertainment, where problems get revealed not in isolation but as part of a dramatized narrative that highlights the regime’s efforts to address them. Since such “problem-revealing entertainment” likely makes audiences immersed in its narratives, it has the potential to positively affect public perceptions of the regime. Drawing on a content analysis of such productions, a text analysis of 400,000 audience reviews, and two original experiments, I demonstrate that China has systematically generated entertainment disclosing details of corruption while stressing its anti-corruption efforts, and that these products improve citizens’ perceptions of the regime’s competence and accountability because of their realistic and immersive content. These findings illustrate how information manipulation through entertainment media strengthens authoritarian resilience.
 </details>
 
 <br>
