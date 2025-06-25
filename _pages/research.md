@@ -4,7 +4,7 @@ title: "Research"
 ---
 
   
-## Working Papers
+## R&R / Working Papers
 
 \[1\] Deng, Rex Weiye. **Screened Realities: How Entertainment Fosters Political Compliance in China.** Job market paper.
 
