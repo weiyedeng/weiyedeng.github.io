@@ -8,7 +8,7 @@ title: "Research"
 
 \[1\] Deng, Rex Weiye. **Screened Realities: How Entertainment Fosters Political Compliance in Autocracies.** Job market paper.
 
-\[[Manuscipt](https://www.dropbox.com/scl/fi/isbdrin1zjo1fgea286n2/EntertainmentPropaganda.pdf?rlkey=d5st5mcs8dl5uq81ap7s1g7l5&st=wsfv8e1i&dl=0)\]
+\[[Manuscipt](https://www.dropbox.com/scl/fi/isbdrin1zjo1fgea286n2/EntertainmentPropaganda.pdf?rlkey=d5st5mcs8dl5uq81ap7s1g7l5&st=wsfv8e1i&dl=0)\] \[[Appendix](https://www.dropbox.com/scl/fi/b8iuflmefm6pbc02wkmer/Ent_Appendix.pdf?rlkey=85wb7m78nhncx2rv0uhlvwya2&st=v912cy1b&dl=0)\]
 
   *    <span style="font-size: 90%">[*Rebecca Morton Poster Award*](https://wp.nyu.edu/cesspoliticalscienceconference/rebecca-morton-poster-prize/), 2025 Rebecca B. Morton Conference on Experimental Political Science (New York University)</span>
   *    <span style="font-size: 90%">[*Timothy E. Cook Best Graduate Student Paper Award*](https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-23/#:~:text=The%20Cook%20Award%20recognizes%20the,previous%20year%27s%20APSA%20Annual%20Meeting.), APSA 2024</span>
@@ -23,7 +23,7 @@ Existing research suggests that autocrats face a dilemma: manipulating negative 
 
 \[2\] Deng, Rex Weiye. **Weaponizing Democracy’s Woes: Negative Propaganda and Regime Evaluations in Autocracies.** Revise and Resubmit, _The Journal of Politics_. 
 
-\[[Manuscipt](https://www.dropbox.com/scl/fi/1fb9szha8ex3pm7bovv1g/NegativePropaganda.pdf?rlkey=m382q7tv35qirgw3evzyt8ba1&st=qd32loxy&dl=0)\]
+\[[Manuscipt](https://www.dropbox.com/scl/fi/1fb9szha8ex3pm7bovv1g/NegativePropaganda.pdf?rlkey=m382q7tv35qirgw3evzyt8ba1&st=qd32loxy&dl=0)\] \[[Appendix](https://www.dropbox.com/scl/fi/1fb9szha8ex3pm7bovv1g/NegProp_Main.pdf?rlkey=m382q7tv35qirgw3evzyt8ba1&dl=0)\]
 
 <details><summary>Abstract</summary>
 
