@@ -35,7 +35,7 @@ Historically, good governance in liberal democracies has been a critical driver 
 
 \[3\] Deng, Rex Weiye, [Taishi Muraoka](https://www.taishimuraoka.com/), and [Margit Tavits](https://sites.wustl.edu/mtavits/). **Exploiting Extremism: Strategic Responses of Radical Right Parties to Right-Wing Violence in Europe**. Under review. 
 
-\[[Manuscipt](https://www.dropbox.com/scl/fi/149g16qkyrj9kgdr10hjp/RightWingTerrorism.pdf?rlkey=z4xygrzmbzdtednucw3abftno&st=upcfd2ep&dl=0)\]
+\[[Manuscipt & Appendix](https://www.dropbox.com/scl/fi/149g16qkyrj9kgdr10hjp/RightWingTerrorism.pdf?rlkey=z4xygrzmbzdtednucw3abftno&st=upcfd2ep&dl=0)\]
   
 <details><summary>Abstract</summary>
 
@@ -46,7 +46,7 @@ How do radical right (RR) parties in Europe respond to rising levels of right-wi
 
 \[4\] [Carter, David, B.](https://sites.wustl.edu/davidcarter/) and Rex Weiye Deng. **Does State-Led Development in Once Hard-to-Reach Places Cultivate Political Trust?** Under review. 
 
-\[Manuscript upon request\]
+\[[Manuscipt](https://www.dropbox.com/scl/fi/duf492s2ngmj3ytb4tq5d/Terrain_Trust_Main.pdf?rlkey=p80m5l6xq0nu3kth0ef5jufrf&st=5qxyr9hv&dl=0)\] \[[Appendix](https://www.dropbox.com/scl/fi/zbqv4ldbe30o3d4cdylr8/Terrain_Trust_Appendix.pdf?rlkey=4karfprre4jaow64nijvbntiy&st=mqegq4mw&dl=0)\] 
 
 <details><summary>Abstract</summary>
 
@@ -57,6 +57,8 @@ Conventional wisdom suggests that increased state presence in historically remot
 
 
 \[5\] [Charaniya, Amaan](https://sites.wustl.edu/amaancharaniya/), Rex Weiye Deng, [Dahjin Kim](https://dahjinkim.github.io/), [Gechun Lin](https://lingechun.github.io/research/), [William Nomikos](https://www.williamgnomikos.com/), and [Ipek Ece Sener](https://ipekecesener.com/). **Can Leaders Shape Public Opinion During a Foreign Policy Crisis? Evidcence from U.S. Withdrawal from Afghanistan.** Under review. 
+
+\[Manuscript Available Upon Request\]
   
   * <span style="font-size: 90%">*Best Foreign Policy Paper Award*, APSA 2022</span>
 <details><summary>Abstract</summary>
