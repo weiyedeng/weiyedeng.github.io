@@ -18,6 +18,6 @@ More broadly related to political communication, I also investigate the media st
 
 Methodlogically, I adopt a multi-method approach, including survey experiments, field experiments, computational methods (text-as-data), and design-based causal inference.  
 
-Prior to my PhD journey, I enrolled in a Double Degree Program initiated and fully funded by the Bai Xian Asia Insitute [(BXAI)](https://www.bxai.org/), where I obtained my Bachelor of Science in Global China Studies [(GCS)](https://www.shss.ust.hk/ug/major/gcs/) from the Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/) and [Bachelor of Art in Economics](https://www.waseda.jp/fpse/pse/en/) from [Waseda University](https://www.waseda.jp/top/en/) in 2020.
+Prior to my PhD journey, I participated in a Double Degree Program fully sponsored by the Bai Xian Asia Insitute [(BXAI)](https://www.bxai.org/). Through this program, I earned a Bachelor of Science in Global China Studies [(GCS)](https://www.shss.ust.hk/ug/major/gcs/) from the Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/) and a Bachelor of Art in [Economics](https://www.waseda.jp/fpse/pse/en/) from [Waseda University](https://www.waseda.jp/top/en/) in 2020.
 
 Please feel free to reach me at [weiye.deng@wustl.edu](weiye.deng@wustl.edu).
