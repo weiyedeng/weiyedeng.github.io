@@ -12,6 +12,7 @@ title: "Research"
 
   *    <span style="font-size: 90%">[*Rebecca Morton Poster Award*](https://wp.nyu.edu/cesspoliticalscienceconference/rebecca-morton-poster-prize/), 2025 Rebecca B. Morton Conference on Experimental Political Science (New York University)</span>
   *    <span style="font-size: 90%">[*Timothy E. Cook Best Graduate Student Paper Award*](https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-23/#:~:text=The%20Cook%20Award%20recognizes%20the,previous%20year%27s%20APSA%20Annual%20Meeting.), APSA 2024</span>
+  * Media coverage: <span style="font-size: 90%">[KSVR](https://www.ksvr.org/.)</span>
 
 <details><summary>Abstract</summary>
 
