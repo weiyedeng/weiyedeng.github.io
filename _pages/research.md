@@ -8,11 +8,11 @@ title: "Research"
 
 \[1\] Deng, Rex Weiye. **Screened Realities: How Entertainment Fosters Political Compliance in Autocracies.** Job market paper.
 
-\[[Manuscipt](https://www.dropbox.com/scl/fi/isbdrin1zjo1fgea286n2/Ent_Main.pdf?rlkey=d5st5mcs8dl5uq81ap7s1g7l5&st=cl9f9lil&dl=0)\] \[[Appendix](https://www.dropbox.com/scl/fi/b8iuflmefm6pbc02wkmer/Ent_Appendix.pdf?rlkey=85wb7m78nhncx2rv0uhlvwya2&st=v912cy1b&dl=0)\]
+\[[Manuscipt](https://www.dropbox.com/scl/fi/isbdrin1zjo1fgea286n2/Ent_Main.pdf?rlkey=d5st5mcs8dl5uq81ap7s1g7l5&st=cl9f9lil&dl=0)\] \[[Appendix](https://www.dropbox.com/scl/fi/b8iuflmefm6pbc02wkmer/Ent_Appendix.pdf?rlkey=85wb7m78nhncx2rv0uhlvwya2&st=v912cy1b&dl=0)\] \[[Poster](https://www.dropbox.com/scl/fi/m1vab05x32xqagdtioplo/Ent_Poster.pdf?rlkey=utckzttthsvgz73lzfdbpnfgc&st=d8f3ex7p&dl=0)\]
 
   *    <span style="font-size: 90%">[*Rebecca Morton Poster Award*](https://wp.nyu.edu/cesspoliticalscienceconference/rebecca-morton-poster-prize/), 2025 Rebecca B. Morton Conference on Experimental Political Science (New York University)</span>
   *    <span style="font-size: 90%">[*Timothy E. Cook Best Graduate Student Paper Award*](https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-23/#:~:text=The%20Cook%20Award%20recognizes%20the,previous%20year%27s%20APSA%20Annual%20Meeting.), APSA 2024</span>
-  * Media coverage: <span style="font-size: 90%">[KSVR Radio](https://www.ksvr.org/.)</span>
+  * <span style="font-size: 90%">Media coverage:  [KSVR Radio](https://www.ksvr.org/.)</span>
 
 <details><summary>Abstract</summary>
 
@@ -69,11 +69,24 @@ The general public greeted news of the American withdrawal from Afghanistan, end
 
 <br>
 
+[6] Deng, Rex Weiye. **Softening the Crisis: How Cultural Diplomacy Fosters Support for International Cooperation.** 
+
+\[Manuscript upon request\]
+
+<details><summary>Abstract</summary>
+
+Does cultural diplomacy promote public support for international cooperation between rival states? While some high-profile cases have inspired optimism and states increasingly invest in soft-power diplomacy, its causal impact remains contested. I argue that when used as a conciliatory gesture, cultural diplomacy can enhance perceptions of a rival’s sincerity, thereby increasing public support for reconciliation, including willingness to endorse low-stakes policy concessions. This effect likely operates through two mechanisms: (1) its public nature raises the reputational cost of reneging on a visible peace gesture (informational mechanism), and (2) it evokes positive emotions and humanizes adversaries (psychological mechanism). However, I do not expect it to increase support for riskier concessions. Evidence from two parallel survey experiments in the U.S. and China supports my argument. Further analysis shows that the psychological mechanism plays a determining role. This study highlights cultural diplomacy’s peace-building potential and its psychological foundations for promoting international cooperation.
+</details>
+
+<br>
+
 ## Selected Work in Progress
 
-Deng, Rex Weiye. **Softening the Crisis: How Cultural Diplomacy Contributes to Interstate Reconciliations.** \[Manuscript upon request\]
-
 Deng, Rex Weiye and [Haifeng Huang](https://www.hhuang.org/). **Cute Propaganda: A Blessing or A Curse?**
+
+Deng, Rex Weiye and [Dahjin Kim](https://dahjinkim.github.io/). **Singing the Truth: Correcting Misperceptions Through Song Lyrics.**
+
+Deng, Rex Weiye. **Imperial Echoes: How Historical Dramas Shape Contemporary Support for Strongman Rule.**
 
 
 
