@@ -59,7 +59,7 @@ Conventional wisdom suggests that increased state presence in historically remot
 
 5 [Charaniya, Amaan](https://sites.wustl.edu/amaancharaniya/), Rex Weiye Deng, [Dahjin Kim](https://dahjinkim.github.io/), [Gechun Lin](https://lingechun.github.io/research/), [William Nomikos](https://www.williamgnomikos.com/), and [Ipek Ece Sener](https://ipekecesener.com/). **Can Leaders Shape Public Opinion During a Foreign Policy Crisis? Evidcence from U.S. Withdrawal from Afghanistan.** Under review. 
 
-Manuscript Available Upon Request
+\[Manuscript Available Upon Request\]
   
   * <span style="font-size: 90%">*Best Foreign Policy Paper Award*, APSA 2022</span>
 <details><summary>Abstract</summary>
@@ -71,7 +71,7 @@ The general public greeted news of the American withdrawal from Afghanistan, end
 
 [6] Deng, Rex Weiye. **Softening the Crisis: How Cultural Diplomacy Fosters Support for International Cooperation.** 
 
-Manuscript upon request
+\[Manuscript upon request\]
 
 <details><summary>Abstract</summary>
 
