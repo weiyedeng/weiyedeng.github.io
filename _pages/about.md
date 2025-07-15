@@ -16,7 +16,10 @@ My research lies at the intersection of authoritarian politics, political commun
 
 ![Test Image](aboutfigs/Gao_topleader.jpg)
 
-
+<div align="center">
+  <img src="aboutfigs/Gao_topleader.jpg" width="300"><br>
+  <img src="aboutfigs/Gao_topleader.jpg" width="300">
+</div>
 
 The other two papers in my dissertation, along with other solo and collaborative projects, advance this agenda by exploring **how political elites use nuanced communication strategies to overcome public skepticism and build support for their rule and policies in both domestic and international environments.** Beyond communication, I also study how states employ policy initiatives to foster political trust, especially in contexts where institutional legitimacy is weak.
 
