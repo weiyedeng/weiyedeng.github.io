@@ -18,8 +18,8 @@ My research lies at the intersection of authoritarian politics, political commun
 
   <img src="/_pages/aboutfigs/Gao_topleader.jpg" width="400"><br>
   <em>"China's political environment today is that the top leader has almost absolute power."</em><br>
-  <em><strong>— In the Name of the People (2017)</strong></em><br>
-</div>
+  <em><strong>— In the Name of the People (2017)</strong></em>
+</div><br>
 
 The other two papers in my dissertation, along with other solo and collaborative projects, advance this agenda by exploring **how political elites use nuanced communication strategies to overcome public skepticism and build support for their rule and policies in both domestic and international environments.** Beyond communication, I also study how states employ policy initiatives to foster political trust, especially in contexts where institutional legitimacy is weak.
 
