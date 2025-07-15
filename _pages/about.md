@@ -15,8 +15,8 @@ I am a Ph.D. candidate at the [Deparment of Political Science](https://polisci.w
 My research lies at the intersection of authoritarian politics, political communication, political psychology, and public diplomacy. It investigates a central question: **how do political elites garner support among the masses, particularly when facing skeptical or even hostile public opinion?** My job market paper, which serves as the foundation for a book project, answers this question by examining how the Chinese regime responds to revelations of widespread corruption through the strategic use of _entertainment_ — a largely understudied dimension of the media landscape — to design engaging stories for persuasion. 
 
 <p align="center">
-  <img src="aboutfigs/Gao_topleader.jpg" alt="Figure 1" width="300"><br>
-  <img src="aboutfigs/Gao_topleader.jpg" alt="Figure 1" width="300"><br>
+  <img src="aboutfigs/Gao_topleader.jpg" width="300"><br>
+  <img src="aboutfigs/Gao_topleader.jpg" width="300"><br>
 </p>
 
 
