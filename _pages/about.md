@@ -14,11 +14,9 @@ I am a Ph.D. candidate at the [Deparment of Political Science](https://polisci.w
 
 My research lies at the intersection of authoritarian politics, political communication, political psychology, and public diplomacy. It investigates a central question: **how do political elites garner support among the masses, particularly when facing skeptical or even hostile public opinion?** My job market paper, which serves as the foundation for a book project, answers this question by examining how the Chinese regime responds to revelations of widespread corruption through the strategic use of _entertainment_ — a largely understudied dimension of the media landscape — to design engaging stories for persuasion. 
 
-Instead of viewing negative information as a liability, they proactively weave acknowledgments of social or governmental failures into broader narratives of problem-solving and progress. I further argue that such "problem-revealing entertainment" can enhance public perceptions of the regime’s competence and accountability. By depicting problems familiar to citizens while highlighting the regime’s efforts to resolve them, these narratives feel realistic, thereby drawing audiences into the story. Such narrative immersion, in turn, reduces counterarguing and encourages viewers to generalize the regime’s portrayed strengths to real-world political evaluations.
-
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
 
-  <img src="/_pages/aboutfigs/Gao_topleader.jpg" width="500"><br>
+  <img src="/_pages/aboutfigs/Gao_topleader.jpg" width="600"><br>
   <em>"China's political environment today is that the top leader has almost absolute power."</em><br>
   <em><strong>— In the Name of the People (2017)</strong></em></div>
 <br>
