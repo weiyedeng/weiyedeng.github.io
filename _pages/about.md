@@ -12,7 +12,7 @@ Welcome!
 
 I am a Ph.D. candidate at the [Deparment of Political Science](https://polisci.wustl.edu/), Washington University in St. Louis [(WashU)](https://wustl.edu/).
 
-My research lies at the intersection of authoritarian politics, political communication, political psychology, and public diplomacy. It investigates a central question: **how do political elites garner support among the masses, particularly when facing skeptical or even hostile public opinion?** My job market paper, which serves as the foundation for a book project, answers this question by examining how the Chinese regime responds to revelations of widespread corruption through the strategic use of _entertainment_ — a largely understudied dimension of the media landscape — to design engaging stories for persuasion. 
+My research lies at the intersection of authoritarian politics, political communication, political psychology, and public diplomacy. It investigates a central question: **how do political elites garner support among the masses, particularly when facing skeptical or even hostile public opinion?** My job market paper, which serves as the foundation for a book project, answers this question by examining how the Chinese regime responds to revelations of widespread corruption through the strategic use of _entertainment_ — a largely understudied dimension of the media landscape — to design engaging stories that weave detailed depictions of governmental failures with positive portrayals of reform and progress for persuasion. 
 
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img src="/_pages/aboutfigs/Gao_topleader.jpg" width="600" style="margin-bottom: 15px;"><br> 
