@@ -19,7 +19,7 @@ My research lies at the intersection of authoritarian politics, political commun
   <img src="/_pages/aboutfigs/Gao_topleader.jpg" width="350" height="260"><br>
   <em>"China's political environment today is that the top leader has almost absolute power."</em><br>
   <em><strong>— In the Name of the People (2017)</strong></em>
-
+  <br>
   <img src="/_pages/aboutfigs/GaoQiQiang.jpg" width="350" height="230"><br>
   <em>"Think of a way to get rid of the inspection team."</em><br>
   <em><strong>— The Knockout (2023)</strong></em>
