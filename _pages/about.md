@@ -16,7 +16,7 @@ My research lies at the intersection of authoritarian politics, political commun
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
 
-  <img src="/_pages/aboutfigs/Gao_topleader.jpg" width="600"><br>
+  <img src="/_pages/aboutfigs/Gao_topleader.jpg" width="600"><br><br>
   <em>"China's political environment today is that the top leader has almost absolute power."</em><br>
   <em><strong>— In the Name of the People (2017)</strong></em></div><br>
 
