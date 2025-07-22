@@ -7,7 +7,7 @@ author_profile: true
 
 ## Teaching Experience
 
-- Teaching Assistant, Washington University in St. Louis <span style="font-size: 90%">[[Teaching Evaluation]](/files/teaching/TeachingEval.pdf)</span>
+- Teaching Assistant, Washington University in St. Louis [[Teaching Evaluation]](/files/teaching/TeachingEval.pdf)
 
   - Introduction to Comparative Politics (Guillermo Rosas), Spring 2024, Undergraduate Level
 
