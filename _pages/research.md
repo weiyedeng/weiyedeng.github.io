@@ -8,7 +8,7 @@ title: "Research"
 
 \[1\] Deng, Rex Weiye. **Screened Realities: How Entertainment Fosters Political Compliance in Autocracies.** Under review. (Job market paper)
 
-[[Manuscipt]](https://www.dropbox.com/scl/fi/uz537riul7izaplb2h4z2/Ent_Full.pdf?rlkey=yw0gctu9nh2hfbynsr78fdsm1&st=vid747yk&dl=0) [[Appendix]](https://www.dropbox.com/scl/fi/b8iuflmefm6pbc02wkmer/Ent_Appendix.pdf?rlkey=85wb7m78nhncx2rv0uhlvwya2&st=v912cy1b&dl=0) [[Poster]](https://www.dropbox.com/scl/fi/m1vab05x32xqagdtioplo/Ent_Poster.pdf?rlkey=utckzttthsvgz73lzfdbpnfgc&st=d8f3ex7p&dl=0)
+[[Manuscipt]](https://www.dropbox.com/scl/fi/uz537riul7izaplb2h4z2/Ent_Full.pdf?rlkey=yw0gctu9nh2hfbynsr78fdsm1&st=bxt8apts&dl=0) [[Appendix]](https://www.dropbox.com/scl/fi/b8iuflmefm6pbc02wkmer/Ent_Appendix.pdf?rlkey=85wb7m78nhncx2rv0uhlvwya2&st=v912cy1b&dl=0) [[Poster]](https://www.dropbox.com/scl/fi/m1vab05x32xqagdtioplo/Ent_Poster.pdf?rlkey=utckzttthsvgz73lzfdbpnfgc&st=d8f3ex7p&dl=0)
 
   *    <span style="font-size: 90%">[*Rebecca Morton Poster Award*](https://wp.nyu.edu/cesspoliticalscienceconference/rebecca-morton-poster-prize/), 2025 Rebecca B. Morton Conference on Experimental Political Science (New York University)</span>
   *    <span style="font-size: 90%">[*Timothy E. Cook Best Graduate Student Paper Award*](https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-23/#:~:text=The%20Cook%20Award%20recognizes%20the,previous%20year%27s%20APSA%20Annual%20Meeting.), APSA 2024</span>
