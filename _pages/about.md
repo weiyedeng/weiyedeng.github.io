@@ -27,6 +27,9 @@ The other two papers in my dissertation, along with other solo and collaborative
 
 Methodlogically, I adopt a multi-method approach, including experiments, computational methods (text-as-data), design-based causal inference, qualitative content analysis, and interviews.
 
-Prior to my PhD journey, I participated in a Double Degree Program fully sponsored by the Bai Xian Asia Insitute [(BXAI)](https://www.bxai.org/). Through this program, I earned a Bachelor of Science in Global China Studies [(GCS)](https://www.shss.ust.hk/ug/major/gcs/) from the Hong Kong University of Science and Technology [(HKUST)](https://hkust.edu.hk/) and a Bachelor of Art in [Economics](https://www.waseda.jp/fpse/pse/en/) from [Waseda University](https://www.waseda.jp/top/en/) in 2020.
+My research has received an R&R at _The Journal of Politics_ and has been generously supported by multiple institutions, including the [APSA Doctoral Dissertation Research Improvement Grant (DDRIG) Program](https://apsanet.org/programs/doctoral-dissertation-research-improvement-grants/), the [Institute of Human Studies](https://www.theihs.org/), and the [Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/).
+
+
+Prior to my PhD journey, I participated in a Double Degree Program fully sponsored by the [Bai Xian Asia Insitute (BXAI)](https://www.bxai.org/). Through this program, I earned a Bachelor of Science in [Global China Studies (GCS)](https://www.shss.ust.hk/ug/major/gcs/) from [the Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) and a Bachelor of Art in [Economics](https://www.waseda.jp/fpse/pse/en/) from [Waseda University](https://www.waseda.jp/top/en/) in 2020.
 
 Please feel free to reach me at [weiye.deng@wustl.edu](weiye.deng@wustl.edu).
