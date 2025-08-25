@@ -12,7 +12,7 @@ Welcome!
 
 I am a Ph.D. candidate at the [Deparment of Political Science](https://polisci.wustl.edu/), Washington University in St. Louis [(WashU)](https://wustl.edu/). I am on the 2025-26 job market.
 
-My research lies at the intersection of authoritarian politics, political communication, political psychology, and public diplomacy. It investigates a central question: **how do political elites garner support among the masses, particularly when facing skeptical or even hostile public opinion?** My job market paper, which serves as the foundation for a book project, answers this question by examining how the Chinese regime responds to revelations of widespread corruption through the strategic use of _entertainment_ — a largely understudied dimension of the media landscape — to design engaging stories that weave detailed depictions of governmental failures with positive portrayals of reform and progress for persuasion. 
+My research lies at the intersection of authoritarian politics, political communication, political psychology, and public diplomacy. Specifically, I investigate **how political elites use communication and development strategies to overcome public skepticism and build support for their rule and policies in both domestic and international environments**. My job market paper, which serves as the foundation for a book project, answers this question by examining how the Chinese regime responds to revelations of widespread corruption through the strategic use of _entertainment_ — a largely understudied dimension of the media landscape — to design engaging stories that weave detailed depictions of governmental failures with positive portrayals of reform and progress for persuasion. 
 
 <p align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
   <img src="/_pages/aboutfigs/Gao_topleader.jpg" width="600" style="margin-bottom: 15px;"><br> 
@@ -22,8 +22,6 @@ My research lies at the intersection of authoritarian politics, political commun
   <span style="font-size: 90%; font-style: italic; font-weight: bold;">
     — In the Name of the People (2017)
   </span></p>
-
-The other two papers in my dissertation, along with other solo and collaborative projects, advance this agenda by exploring **how political elites use communication and development strategies to overcome public skepticism and build support for their rule and policies in both domestic and international environments.** 
 
 Methodlogically, I adopt a multi-method approach, including experiments, computational methods (text-as-data), design-based causal inference, qualitative content analysis, and interviews.
 
