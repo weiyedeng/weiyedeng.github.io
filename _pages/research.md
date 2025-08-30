@@ -35,7 +35,19 @@ Historically, good governance in liberal democracies has been a critical driver 
 
 <br>
 
-\[3\] Deng, Rex Weiye, [Taishi Muraoka](https://www.taishimuraoka.com/), and [Margit Tavits](https://sites.wustl.edu/mtavits/). **Exploiting Extremism: Strategic Responses of Radical Right Parties to Right-Wing Violence in Europe**. Under review. 
+\[3\] Deng, Rex Weiye. **Softening the Crisis: How Cultural Diplomacy Fosters Support for International Reconciliation.** 
+
+[[Manuscipt]](https://www.dropbox.com/scl/fi/qjzfg6igsvq7m6ne9tiyp/Cul_Main.pdf?rlkey=zqmegunh8gmx5bra7ejd3aeam&st=nwt51lr1&dl=0) [[Appendix]](https://www.dropbox.com/scl/fi/v0erg739dukrq3gowvnt0/Cul_Appendix.pdf?rlkey=6gv3rgzefx7l643mv1il75qux&st=ms645d0x&dl=0) 
+
+<details><summary>Abstract</summary>
+
+Does cultural diplomacy promote public support for international cooperation between rival states? While some high-profile cases have inspired optimism and states increasingly invest in soft-power diplomacy, its causal impact remains contested. I argue that when used as a conciliatory gesture, cultural diplomacy can enhance perceptions of a rival’s sincerity, thereby increasing public support for reconciliation, including willingness to endorse low-stakes policy concessions. This effect likely operates through two mechanisms: (1) its public nature raises the reputational cost of reneging on a visible peace gesture (informational mechanism), and (2) it evokes positive emotions and humanizes adversaries (psychological mechanism). However, I do not expect it to increase support for riskier concessions. Evidence from two parallel survey experiments in the U.S. and China supports my argument. Further analysis shows that the psychological mechanism plays a determining role. This study highlights cultural diplomacy’s peace-building potential and its psychological foundations for promoting international cooperation.
+</details>
+
+<br>
+
+
+\[4\] Deng, Rex Weiye, [Taishi Muraoka](https://www.taishimuraoka.com/), and [Margit Tavits](https://sites.wustl.edu/mtavits/). **Exploiting Extremism: Strategic Responses of Radical Right Parties to Right-Wing Violence in Europe**. Under review. 
 
 [[Manuscipt & Appendix]](https://www.dropbox.com/scl/fi/149g16qkyrj9kgdr10hjp/RightWingTerrorism.pdf?rlkey=z4xygrzmbzdtednucw3abftno&st=upcfd2ep&dl=0)
   
@@ -46,7 +58,7 @@ How do radical right (RR) parties in Europe respond to rising levels of right-wi
 
 <br>
 
-\[4\] [Carter, David, B.](https://sites.wustl.edu/davidcarter/) and Rex Weiye Deng. **Does State-Led Development in Once Hard-to-Reach Places Cultivate Political Trust?** Under review. 
+\[5\] [Carter, David, B.](https://sites.wustl.edu/davidcarter/) and Rex Weiye Deng. **Does State-Led Development in Once Hard-to-Reach Places Cultivate Political Trust?** Under review. 
 
 [[Manuscipt]](https://www.dropbox.com/scl/fi/duf492s2ngmj3ytb4tq5d/Terrain_Trust_Main.pdf?rlkey=p80m5l6xq0nu3kth0ef5jufrf&st=5qxyr9hv&dl=0) [[Appendix]](https://www.dropbox.com/scl/fi/zbqv4ldbe30o3d4cdylr8/Terrain_Trust_Appendix.pdf?rlkey=4karfprre4jaow64nijvbntiy&st=mqegq4mw&dl=0) 
 
@@ -58,7 +70,7 @@ Conventional wisdom suggests that increased state presence in historically remot
 <br>
 
 
-\[5\] [Charaniya, Amaan](https://sites.wustl.edu/amaancharaniya/), Rex Weiye Deng, [Dahjin Kim](https://dahjinkim.github.io/), [Gechun Lin](https://lingechun.github.io/research/), [William Nomikos](https://www.williamgnomikos.com/), and [Ipek Ece Sener](https://ipekecesener.com/). **Can Leaders Shape Public Opinion During a Foreign Policy Crisis? Evidcence from U.S. Withdrawal from Afghanistan.** Under review. 
+\[6\] [Charaniya, Amaan](https://sites.wustl.edu/amaancharaniya/), Rex Weiye Deng, [Dahjin Kim](https://dahjinkim.github.io/), [Gechun Lin](https://lingechun.github.io/research/), [William Nomikos](https://www.williamgnomikos.com/), and [Ipek Ece Sener](https://ipekecesener.com/). **Can Leaders Shape Public Opinion During a Foreign Policy Crisis? Evidcence from U.S. Withdrawal from Afghanistan.** Under review. 
 
 \[Manuscript Available Upon Request\]
   
@@ -66,17 +78,6 @@ Conventional wisdom suggests that increased state presence in historically remot
 <details><summary>Abstract</summary>
 
 The general public greeted news of the American withdrawal from Afghanistan, ending a two-decade long operation,  with mixed reactions. In this paper, we describe the real-time reactions to the American withdrawal on Twitter. We trace and describe online discussions specifically about the U.S. withdrawal from Afghanistan by collecting a unique dataset of 7 million tweets. Instead of relying on a pre-determined group of users, we collect all tweets in the United States sent between August and September of 2021 that mention a list of keywords related to the  withdrawal. This approach allows us to collect a comprehensive corpus of tweets related to the Afghan withdrawal. We  then apply a semi-supervised machine learning algorithm to measure sentiment toward both the Trump administration, which began the withdrawal, and the Biden administration, which concluded it.  We  find that social media reactions to  key events are rapid but transient. We observe no spikes but a steady increasing volume of negative Tweets after the United States completes the withdrawal process on August 31st. 
-</details>
-
-<br>
-
-\[6\] Deng, Rex Weiye. **Softening the Crisis: How Cultural Diplomacy Fosters Support for International Cooperation.** 
-
-\[Manuscript upon request\]
-
-<details><summary>Abstract</summary>
-
-Does cultural diplomacy promote public support for international cooperation between rival states? While some high-profile cases have inspired optimism and states increasingly invest in soft-power diplomacy, its causal impact remains contested. I argue that when used as a conciliatory gesture, cultural diplomacy can enhance perceptions of a rival’s sincerity, thereby increasing public support for reconciliation, including willingness to endorse low-stakes policy concessions. This effect likely operates through two mechanisms: (1) its public nature raises the reputational cost of reneging on a visible peace gesture (informational mechanism), and (2) it evokes positive emotions and humanizes adversaries (psychological mechanism). However, I do not expect it to increase support for riskier concessions. Evidence from two parallel survey experiments in the U.S. and China supports my argument. Further analysis shows that the psychological mechanism plays a determining role. This study highlights cultural diplomacy’s peace-building potential and its psychological foundations for promoting international cooperation.
 </details>
 
 <br>
