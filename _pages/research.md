@@ -11,7 +11,6 @@ title: "Research"
 [[Manuscipt]](https://www.dropbox.com/scl/fi/isbdrin1zjo1fgea286n2/Ent_Main.pdf?rlkey=d5st5mcs8dl5uq81ap7s1g7l5&st=bx3idqw4&dl=0) [[Appendix]](https://www.dropbox.com/scl/fi/b8iuflmefm6pbc02wkmer/Ent_Appendix.pdf?rlkey=85wb7m78nhncx2rv0uhlvwya2&st=v912cy1b&dl=0) [[Poster]](https://www.dropbox.com/scl/fi/m1vab05x32xqagdtioplo/Ent_Poster.pdf?rlkey=utckzttthsvgz73lzfdbpnfgc&st=d8f3ex7p&dl=0)
 
   *  <span style="font-size: 90%">Supported by the [*APSA Doctoral Dissertation Research Improvement Grant (DDRIG)*](https://apsanet.org/programs/doctoral-dissertation-research-improvement-grants/)</span>
-  *  <span style="font-size: 90%">Semifinalist, [*Dean's Award for Graduate Research Excellence*](https://gradstudies.artsci.wustl.edu/deans-award-graduate-research-excellence-00), Washington University in St. Louis</span>
   *  <span style="font-size: 90%">Winner of the [*Rebecca Morton Poster Award*](https://wp.nyu.edu/cesspoliticalscienceconference/rebecca-morton-poster-prize/), 2025 Rebecca B. Morton Conference on Experimental Political Science (New York University)</span>
   *  <span style="font-size: 90%">Winner of the [*Timothy E. Cook Best Graduate Student Paper Award*](https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-23/#:~:text=The%20Cook%20Award%20recognizes%20the,previous%20year%27s%20APSA%20Annual%20Meeting.), APSA 2024</span>
   * <span style="font-size: 90%">Media coverage:  [KSVR Radio](https://www.ksvr.org/.)</span>
