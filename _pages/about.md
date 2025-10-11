@@ -12,7 +12,7 @@ Welcome!
 
 I am a Ph.D. candidate at the [Deparment of Political Science](https://polisci.wustl.edu/), Washington University in St. Louis [(WashU)](https://wustl.edu/). I am on the 2025-26 job market.
 
-My research lies at the intersection of comparative politics and international relations, and focuses on authoritarian politics, public diplomacy, political communication, and political psychology. 
+My research lies at the intersection of comparative politics and international relations, focusing on authoritarian politics, public diplomacy, political communication, and political psychology. Much of my work centers on China and U.S.–China relations, while it also extends to Europe and other cross-national contexts.
 
 Specifically, I investigate **how political elites use communication and development strategies to overcome public skepticism and build support for their rule and policies in both domestic and international environments**. My job market paper, which serves as the foundation for a book project, answers this question by examining how the Chinese regime responds to revelations of widespread corruption through the strategic use of _entertainment_ — a largely understudied dimension of the media landscape — to design engaging stories that weave detailed depictions of governance failures with positive portrayals of reform and progress for persuasion. 
 
