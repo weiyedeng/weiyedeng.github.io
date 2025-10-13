@@ -23,7 +23,7 @@ Existing research suggests that autocrats face a dilemma: manipulating negative 
 <br>
 
 
-\[2\] Deng, Rex Weiye. **Weaponizing Democracy’s Woes: Negative Propaganda and Regime Evaluations in Autocracies.** Revise and Resubmit, _The Journal of Politics_. 
+\[2\] Deng, Rex Weiye. **Propaganda of Democracy's Woes and Its Impact on Regime Evaluations in Autocracies.** Revise and Resubmit, _The Journal of Politics_. 
 
 [[Manuscipt]](https://www.dropbox.com/scl/fi/1fb9szha8ex3pm7bovv1g/NegativePropaganda.pdf?rlkey=m382q7tv35qirgw3evzyt8ba1&st=qd32loxy&dl=0) [[Appendix]](https://www.dropbox.com/scl/fi/1fb9szha8ex3pm7bovv1g/NegProp_Main.pdf?rlkey=m382q7tv35qirgw3evzyt8ba1&dl=0)
 
@@ -37,7 +37,7 @@ Historically, good governance in liberal democracies has been a critical driver 
 
 \[3\] Deng, Rex Weiye. **Softening the Crisis: How Cultural Diplomacy Fosters Support for International Reconciliation.** 
 
-[[Manuscipt]](https://www.dropbox.com/scl/fi/qjzfg6igsvq7m6ne9tiyp/Cul_Main.pdf?rlkey=zqmegunh8gmx5bra7ejd3aeam&st=nwt51lr1&dl=0) [[Appendix]](https://www.dropbox.com/scl/fi/v0erg739dukrq3gowvnt0/Cul_Appendix.pdf?rlkey=6gv3rgzefx7l643mv1il75qux&st=ms645d0x&dl=0) 
+[[Manuscipt]](https://www.dropbox.com/scl/fi/bwbaw0txju8veu96cadb9/Cul_Main.pdf?rlkey=txg104sq7ro9dg41ktq2ad9bj&st=2cm70wt2&dl=0) [[Appendix]](https://www.dropbox.com/scl/fi/v0erg739dukrq3gowvnt0/Cul_Appendix.pdf?rlkey=6gv3rgzefx7l643mv1il75qux&st=ms645d0x&dl=0) 
 
 <details><summary>Abstract</summary>
 
