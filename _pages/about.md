@@ -25,7 +25,7 @@ Specifically, I investigate **how political elites use communication and develop
     — In the Name of the People (2017)
   </span></p>
 
-Methodlogically, I adopt a multi-method approach, including experiments, computational methods (text-as-data), design-based causal inference, qualitative content analysis, and interviews.
+I adopt a multi-method approach to advance my research, including experiments, computational methods, design-based causal inference, qualitative content analysis, and interviews.
 
 My research has been invited to R&R at the [American Political Science Review](https://www.cambridge.org/core/journals/american-political-science-review) and [The Journal of Politics](https://www.journals.uchicago.edu/toc/jop/current) and has earned several recognitions, including the [Timothy E. Cook Best Graduate Paper Award](https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-23/) (APSA 2024), the [Rebecca Morton Poster Award](https://wp.nyu.edu/cesspoliticalscienceconference/rebecca-morton-poster-prize/) (NYU Rebecca B. Morton Conference on Experimental Political Science 2025), and the [Best Paper Award for the Foreign Policy Section](https://apsanet.org/membership/organized-sections/organized-section-awards/past-awards/section-31/#paper) (APSA 2022). At WashU, I am the recipient of the [Provost’s Graduate Student Research Excellence Award](https://hereandnext.washu.edu/2024-research-excellence-showcase/) and the semifinalist of the [Dean’s Graduate Student Research Excellence Award](https://gradstudies.artsci.wustl.edu/deans-award-graduate-research-excellence-00).
 
