@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome! 
 
-I am a Ph.D. candidate at the [Deparment of Political Science](https://polisci.wustl.edu/), Washington University in St. Louis [(WashU)](https://wustl.edu/). Beginning in Fall 2026, I will join the Division of Social Science at New York University Abu Dhabi as an Assistant Professor of Political Science.
+I am a Ph.D. candidate at the [Deparment of Political Science](https://polisci.wustl.edu/), Washington University in St. Louis [(WashU)](https://wustl.edu/). Beginning in Fall 2026, I will join the [Division of Social Science at New York University Abu Dhabi](https://nyuad.nyu.edu/en/academics/divisions/social-science.html) as an Assistant Professor of Political Science.
 
 My research lies at the intersection of comparative politics and international relations, focusing on authoritarian politics, public diplomacy, political communication, and political psychology. Much of my work centers on China and U.S.–China relations, while it also extends to Europe and other cross-national contexts.
 
