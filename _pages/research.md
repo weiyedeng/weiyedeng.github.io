@@ -8,7 +8,7 @@ title: "Research"
 
 \[1\] Deng, Rex Weiye. **Screened Realities: How Entertainment Fosters Political Compliance in Autocracies.** Revise and Resubmit, _American Political Science Review_.
 
-[[Manuscipt]](https://www.dropbox.com/scl/fi/isbdrin1zjo1fgea286n2/Ent_Main.pdf?rlkey=d5st5mcs8dl5uq81ap7s1g7l5&st=bx3idqw4&dl=0) [[Appendix]](https://www.dropbox.com/scl/fi/b8iuflmefm6pbc02wkmer/Ent_Appendix.pdf?rlkey=85wb7m78nhncx2rv0uhlvwya2&st=v912cy1b&dl=0) [[Poster]](https://www.dropbox.com/scl/fi/m1vab05x32xqagdtioplo/Ent_Poster.pdf?rlkey=utckzttthsvgz73lzfdbpnfgc&st=d8f3ex7p&dl=0)
+[//]: # [[Manuscipt]](https://www.dropbox.com/scl/fi/isbdrin1zjo1fgea286n2/Ent_Main.pdf?rlkey=d5st5mcs8dl5uq81ap7s1g7l5&st=bx3idqw4&dl=0) [[Appendix]](https://www.dropbox.com/scl/fi/b8iuflmefm6pbc02wkmer/Ent_Appendix.pdf?rlkey=85wb7m78nhncx2rv0uhlvwya2&st=v912cy1b&dl=0) [[Poster]](https://www.dropbox.com/scl/fi/m1vab05x32xqagdtioplo/Ent_Poster.pdf?rlkey=utckzttthsvgz73lzfdbpnfgc&st=d8f3ex7p&dl=0)
 
   *  <span style="font-size: 90%">Supported by the [*APSA Doctoral Dissertation Research Improvement Grant (DDRIG)*](https://apsanet.org/programs/doctoral-dissertation-research-improvement-grants/)</span>
   * <span style="font-size: 90%">Winner of the Pi Sigma Alpha Best Paper by a Graduate Student Award, MPSA 2025</span>
@@ -26,7 +26,7 @@ Existing research suggests that autocrats face a dilemma: manipulating negative 
 
 \[2\] Deng, Rex Weiye. **Propaganda of Democracy's Woes and Its Impact on Regime Evaluations in Autocracies.** Conditionally Accepted, _The Journal of Politics_. 
 
-[[Manuscipt]](https://www.dropbox.com/scl/fi/1fb9szha8ex3pm7bovv1g/NegativePropaganda.pdf?rlkey=m382q7tv35qirgw3evzyt8ba1&st=qd32loxy&dl=0) [[Appendix]](https://www.dropbox.com/scl/fi/1fb9szha8ex3pm7bovv1g/NegProp_Main.pdf?rlkey=m382q7tv35qirgw3evzyt8ba1&dl=0)
+[//]: # [[Manuscipt]](https://www.dropbox.com/scl/fi/1fb9szha8ex3pm7bovv1g/NegativePropaganda.pdf?rlkey=m382q7tv35qirgw3evzyt8ba1&st=qd32loxy&dl=0) [[Appendix]](https://www.dropbox.com/scl/fi/1fb9szha8ex3pm7bovv1g/NegProp_Main.pdf?rlkey=m382q7tv35qirgw3evzyt8ba1&dl=0)
 
 <details><summary>Abstract</summary>
 
@@ -38,7 +38,7 @@ Historically, good governance in liberal democracies has been a critical driver 
 
 \[3\] Deng, Rex Weiye. **Softening the Crisis: How Cultural Diplomacy Fosters Support for International Reconciliation.** 
 
-[[Manuscipt]](https://www.dropbox.com/scl/fi/bwbaw0txju8veu96cadb9/Cul_Main.pdf?rlkey=txg104sq7ro9dg41ktq2ad9bj&st=2cm70wt2&dl=0) [[Appendix]](https://www.dropbox.com/scl/fi/v0erg739dukrq3gowvnt0/Cul_Appendix.pdf?rlkey=6gv3rgzefx7l643mv1il75qux&st=ms645d0x&dl=0) 
+[//]: # [[Manuscipt]](https://www.dropbox.com/scl/fi/bwbaw0txju8veu96cadb9/Cul_Main.pdf?rlkey=txg104sq7ro9dg41ktq2ad9bj&st=2cm70wt2&dl=0) [[Appendix]](https://www.dropbox.com/scl/fi/v0erg739dukrq3gowvnt0/Cul_Appendix.pdf?rlkey=6gv3rgzefx7l643mv1il75qux&st=ms645d0x&dl=0) 
 
 <details><summary>Abstract</summary>
 
@@ -50,7 +50,7 @@ Does cultural diplomacy promote public support for international cooperation bet
 
 \[4\] Deng, Rex Weiye, [Taishi Muraoka](https://www.taishimuraoka.com/), and [Margit Tavits](https://sites.wustl.edu/mtavits/). **Exploiting Extremism: Strategic Responses of Radical Right Parties to Right-Wing Violence in Europe**. Under review. 
 
-[[Manuscipt & Appendix]](https://www.dropbox.com/scl/fi/149g16qkyrj9kgdr10hjp/RightWingTerrorism.pdf?rlkey=z4xygrzmbzdtednucw3abftno&st=upcfd2ep&dl=0)
+[//]: # [[Manuscipt & Appendix]](https://www.dropbox.com/scl/fi/149g16qkyrj9kgdr10hjp/RightWingTerrorism.pdf?rlkey=z4xygrzmbzdtednucw3abftno&st=upcfd2ep&dl=0)
   
 <details><summary>Abstract</summary>
 
@@ -61,7 +61,7 @@ How do radical right (RR) parties in Europe respond to rising levels of right-wi
 
 \[5\] [Carter, David, B.](https://sites.wustl.edu/davidcarter/) and Rex Weiye Deng. **Does State-Led Development in Once Hard-to-Reach Places Cultivate Political Trust?** Under review. 
 
-[[Manuscipt]](https://www.dropbox.com/scl/fi/duf492s2ngmj3ytb4tq5d/Terrain_Trust_Main.pdf?rlkey=p80m5l6xq0nu3kth0ef5jufrf&st=5qxyr9hv&dl=0) [[Appendix]](https://www.dropbox.com/scl/fi/zbqv4ldbe30o3d4cdylr8/Terrain_Trust_Appendix.pdf?rlkey=4karfprre4jaow64nijvbntiy&st=mqegq4mw&dl=0) 
+[//]: # [[Manuscipt]](https://www.dropbox.com/scl/fi/duf492s2ngmj3ytb4tq5d/Terrain_Trust_Main.pdf?rlkey=p80m5l6xq0nu3kth0ef5jufrf&st=5qxyr9hv&dl=0) [[Appendix]](https://www.dropbox.com/scl/fi/zbqv4ldbe30o3d4cdylr8/Terrain_Trust_Appendix.pdf?rlkey=4karfprre4jaow64nijvbntiy&st=mqegq4mw&dl=0) 
 
 <details><summary>Abstract</summary>
 
@@ -73,7 +73,7 @@ Conventional wisdom suggests that increased state presence in historically remot
 
 \[6\] [Charaniya, Amaan](https://sites.wustl.edu/amaancharaniya/), Rex Weiye Deng, [Dahjin Kim](https://dahjinkim.github.io/), [Gechun Lin](https://lingechun.github.io/research/), [William Nomikos](https://www.williamgnomikos.com/), and [Ipek Ece Sener](https://ipekecesener.com/). **Can Leaders Shape Public Opinion During a Foreign Policy Crisis? Evidcence from U.S. Withdrawal from Afghanistan.** Under review. 
 
-\[Manuscript Available Upon Request\]
+[//]: # \[Manuscript Available Upon Request\]
   
   * <span style="font-size: 90%">*Best Foreign Policy Paper Award*, APSA 2022</span>
 <details><summary>Abstract</summary>
