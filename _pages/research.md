@@ -4,6 +4,22 @@ title: "Research"
 ---
 
 
+## Publications
+
+<div class="paper-card" markdown="1">
+
+\[1\] Deng, Rex Weiye. **[Propaganda of Democracy’s Flaws and Its Impact on Regime Evaluations in Autocracies.](https://www.journals.uchicago.edu/doi/pdf/10.1086/742026?download=true)** _The Journal of Politics_.
+
+[//]: # [[Manuscipt]](https://www.dropbox.com/scl/fi/1fb9szha8ex3pm7bovv1g/NegativePropaganda.pdf?rlkey=m382q7tv35qirgw3evzyt8ba1&st=qd32loxy&dl=0) [[Appendix]](https://www.dropbox.com/scl/fi/1fb9szha8ex3pm7bovv1g/NegProp_Main.pdf?rlkey=m382q7tv35qirgw3evzyt8ba1&dl=0)
+
+<details><summary>Abstract</summary>
+
+Historically, good governance in established democracies has been a critical driver for democratization. Yet, the growing visibility of social and political problems in established democracies offers autocrats an opportunity to undermine the democratic model and bolster their own legitimacy. I argue that by strategically amplifying these problems—a tactic I term propaganda of democratic flaws—autocrats can undermine the appeal of a democratic system because such messages often appear credible and evoke fear, even though they do not necessarily increase evaluations of the domestic regime. A text analysis of Weibo posts from Chinese state-affiliated media from 2013 to 2024 and two original survey experiments in China provide consistent support for my argument. These findings show that democratic governance has far-reaching consequences beyond its borders, shaping the global trajectory of authoritarianism.
+
+</details>
+
+</div>
+
 ## R&R / Working Papers
 
 <div class="paper-card" markdown="1">
@@ -20,28 +36,14 @@ title: "Research"
 
 <details><summary>Abstract</summary>
 
-Autocrats typically treat governance failures as political liabilities and seek to insulate the leadership from public blame. Yet the growing prevalence of "problem-solving entertainment" in authoritarian regimes—narratives that foreground persistent governance problems and institutional weaknesses, while highlighting the state's efforts to address them—appears to contradict this logic. I contend that autocrats use problem-solving entertainment as a proactive propaganda strategy to restore perceptions of regime competence and accountability. As such narratives likely feel realistic and immersive to audiences, it has the potential to improve regime evaluations. Drawing on a content analysis of such productions, a text analysis of audience reviews, and two original experiments, I demonstrate that China has systematically produced entertainment showing details of corruption while stressing its anti-corruption efforts, and that these narratives improve citizens' perceptions of the regime’s competence and accountability. These findings illustrate how information manipulation through entertainment media strengthens authoritarian resilience.
+Autocrats typically treat governance failures as political liabilities and seek to insulate the leadership from public blame. Yet the growing prevalence of "problem-solving entertainment" in authoritarian regimes—narratives that foreground persistent governance problems and institutional weaknesses, while highlighting the state’s efforts to address them—appears to contradict this logic. I contend that autocrats use problem-solving entertainment as a proactive propaganda strategy to restore perceptions of regime competence and accountability. As such narratives likely feel realistic and immersive to audiences, it has the potential to improve regime evaluations. Drawing on a content analysis of such productions, a text analysis of audience reviews, and two original experiments, I demonstrate that China has systematically produced entertainment showing details of corruption while stressing its anti-corruption efforts, and that these narratives improve citizens’ perceptions of the regime’s competence and accountability. These findings illustrate how information manipulation through entertainment media strengthens authoritarian resilience.
 </details>
 
 </div>
 
 <div class="paper-card" markdown="1">
 
-\[2\] Deng, Rex Weiye. **Propaganda of Democracy's Woes and Its Impact on Regime Evaluations in Autocracies.** Accepted, _The Journal of Politics_.
-
-[//]: # [[Manuscipt]](https://www.dropbox.com/scl/fi/1fb9szha8ex3pm7bovv1g/NegativePropaganda.pdf?rlkey=m382q7tv35qirgw3evzyt8ba1&st=qd32loxy&dl=0) [[Appendix]](https://www.dropbox.com/scl/fi/1fb9szha8ex3pm7bovv1g/NegProp_Main.pdf?rlkey=m382q7tv35qirgw3evzyt8ba1&dl=0)
-
-<details><summary>Abstract</summary>
-
-Historically, good governance in established democracies has been a critical driver for democratization. Yet, the growing visibility of social and political problems in established democracies offers autocrats an opportunity to undermine the democratic model and bolster their own legitimacy. I argue that by strategically amplifying these problems—a tactic I term propaganda of democratic flaws—autocrats can undermine the appeal of a democratic system because such messages often appear credible and evoke fear, even though they do not necessarily increase evaluations of the domestic regime. A text analysis of Weibo posts from Chinese state-affiliated media from 2013 to 2024 and two original survey experiments in China provide consistent support for my argument. These findings show that democratic governance has far-reaching consequences beyond its borders, shaping the global trajectory of authoritarianism.
-
-</details>
-
-</div>
-
-<div class="paper-card" markdown="1">
-
-\[3\] Deng, Rex Weiye. **Softening the Crisis: How Cultural Diplomacy Fosters Support for International Reconciliation.**
+\[2\] Deng, Rex Weiye. **Softening the Crisis: How Cultural Diplomacy Fosters Support for International Reconciliation.** _Under Review_.
 
 [//]: # [[Manuscipt]](https://www.dropbox.com/scl/fi/bwbaw0txju8veu96cadb9/Cul_Main.pdf?rlkey=txg104sq7ro9dg41ktq2ad9bj&st=2cm70wt2&dl=0) [[Appendix]](https://www.dropbox.com/scl/fi/v0erg739dukrq3gowvnt0/Cul_Appendix.pdf?rlkey=6gv3rgzefx7l643mv1il75qux&st=ms645d0x&dl=0)
 
@@ -54,7 +56,7 @@ Does cultural diplomacy promote public support for international cooperation bet
 
 <div class="paper-card" markdown="1">
 
-\[4\] Deng, Rex Weiye, [Taishi Muraoka](https://www.taishimuraoka.com/), and [Margit Tavits](https://sites.wustl.edu/mtavits/). **Exploiting Extremism: Strategic Responses of Radical Right Parties to Right-Wing Violence in Europe**. Under review.
+\[3\] Deng, Rex Weiye, [Taishi Muraoka](https://www.taishimuraoka.com/), and [Margit Tavits](https://sites.wustl.edu/mtavits/). **Exploiting Extremism: Strategic Responses of Radical Right Parties to Right-Wing Violence in Europe**. Under review.
 
 [//]: # [[Manuscipt & Appendix]](https://www.dropbox.com/scl/fi/149g16qkyrj9kgdr10hjp/RightWingTerrorism.pdf?rlkey=z4xygrzmbzdtednucw3abftno&st=upcfd2ep&dl=0)
 
@@ -67,7 +69,7 @@ How do radical right (RR) parties in Europe respond to rising levels of right-wi
 
 <div class="paper-card" markdown="1">
 
-\[5\] [Carter, David, B.](https://sites.wustl.edu/davidcarter/) and Rex Weiye Deng. **Does State-Led Development in Once Hard-to-Reach Places Cultivate Political Trust?** Under review.
+\[4\] [Carter, David, B.](https://sites.wustl.edu/davidcarter/) and Rex Weiye Deng. **Does State-Led Development in Once Hard-to-Reach Places Cultivate Political Trust?** Under review.
 
 [//]: # [[Manuscipt]](https://www.dropbox.com/scl/fi/duf492s2ngmj3ytb4tq5d/Terrain_Trust_Main.pdf?rlkey=p80m5l6xq0nu3kth0ef5jufrf&st=5qxyr9hv&dl=0) [[Appendix]](https://www.dropbox.com/scl/fi/zbqv4ldbe30o3d4cdylr8/Terrain_Trust_Appendix.pdf?rlkey=4karfprre4jaow64nijvbntiy&st=mqegq4mw&dl=0)
 
@@ -80,7 +82,7 @@ Conventional wisdom suggests that increased state presence in historically remot
 
 <div class="paper-card" markdown="1">
 
-\[6\] [Charaniya, Amaan](https://sites.wustl.edu/amaancharaniya/), Rex Weiye Deng, [Dahjin Kim](https://dahjinkim.github.io/), [Gechun Lin](https://lingechun.github.io/research/), [William Nomikos](https://www.williamgnomikos.com/), and [Ipek Ece Sener](https://ipekecesener.com/). **Can Leaders Shape Public Opinion During a Foreign Policy Crisis? Evidcence from U.S. Withdrawal from Afghanistan.** Under review.
+\[5\] [Charaniya, Amaan](https://sites.wustl.edu/amaancharaniya/), Rex Weiye Deng, [Dahjin Kim](https://dahjinkim.github.io/), [Gechun Lin](https://lingechun.github.io/research/), [William Nomikos](https://www.williamgnomikos.com/), and [Ipek Ece Sener](https://ipekecesener.com/). **Can Leaders Shape Public Opinion During a Foreign Policy Crisis? Evidcence from U.S. Withdrawal from Afghanistan.** Under review.
 
 [//]: # \[Manuscript Available Upon Request\]
 
