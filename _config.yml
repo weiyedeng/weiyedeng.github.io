@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Rex Weiye Deng"
   avatar           : "mou.jpg"
-  bio              : "Ph.D. in Political Science"
-  location         : "St. Louis, MO"
+  bio              : "Assistant Professor of Political Science"
+  location         : "Abu Dhabi, UAE"
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            :  "weiye.deng@wustl.edu"
+  email            :  "wd2070@nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "weiyedeng"
+  github           :
   google_plus      :
   keybase          :
   instagram        :
