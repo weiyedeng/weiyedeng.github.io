@@ -32,6 +32,6 @@ My research has been invited to R&R/accepted at the [American Political Science 
 My work has also been generously supported by multiple institutions, including the [APSA Doctoral Dissertation Research Improvement Grant (DDRIG) Program](https://apsanet.org/programs/doctoral-dissertation-research-improvement-grants/), the [Institute of Human Studies](https://www.theihs.org/), and the [Weidenbaum Center on the Economy, Government, and Public Policy](https://wc.wustl.edu/).
 
 
-Prior to my PhD journey, I earned a Bachelor of Science in [Global China Studies (GCS)](https://www.shss.ust.hk/ug/major/gcs/) from [the Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) and a Bachelor of Art in [Economics](https://www.waseda.jp/fpse/pse/en/) from [Waseda University](https://www.waseda.jp/top/en/) in 2020. My undergraduate study was fully and generously funded by the Ho & Ho Foundation and the [Bai Xian Asia Insitute (BXAI)](https://www.bxai.org/).
+Prior to my PhD journey, I earned a Bachelor of Science in [Global China Studies (GCS)](https://www.shss.ust.hk/ug/major/gcs/) from [the Hong Kong University of Science and Technology (HKUST)](https://hkust.edu.hk/) and a Bachelor of Arts in [Economics](https://www.waseda.jp/fpse/pse/en/) from [Waseda University](https://www.waseda.jp/top/en/) in 2020. My undergraduate study was fully and generously funded by the Ho & Ho Foundation and the [Bai Xian Asia Institute (BXAI)](https://www.bxai.org/).
 
-Please feel free to reach me at [weiye.deng@wustl.edu](weiye.deng@wustl.edu).
+Please feel free to reach me at [wd2070@nyu.edu](mailto:wd2070@nyu.edu).

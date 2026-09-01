@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Rex Weiye Deng"
 title_separator          : "-"
 name                     : &name "Rex Weiye Deng"
-description              : &description "Ph.D. candidate in the Department of Political Science, Washington University in St. Louis"
+description              : &description "Assistant Professor of Political Science at New York University Abu Dhabi"
 url                      : https://weiyedeng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weiyedeng/weiyedeng.github.io"
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "/rex-weiye-deng"
+  linkedin         :
   orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "rexhere1"
+  twitter          :
   vine             :
   weibo            : 
   xing             :
