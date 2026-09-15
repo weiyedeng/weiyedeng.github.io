@@ -24,7 +24,7 @@ Historically, good governance in established democracies has been a critical dri
 
 <div class="paper-card" markdown="1">
 
-\[1\] Deng, Rex Weiye. **Screened Realities: How Entertainment Fosters Political Compliance in Autocracies.** Revise and Resubmit, _American Political Science Review_.
+\[1\] Deng, Rex Weiye. **Screened Realities: How Entertainment Fosters Political Compliance in Autocracies.** Revise and Resubmit.
 
 [//]: # [[Manuscipt]](https://www.dropbox.com/scl/fi/isbdrin1zjo1fgea286n2/Ent_Main.pdf?rlkey=d5st5mcs8dl5uq81ap7s1g7l5&st=bx3idqw4&dl=0) [[Appendix]](https://www.dropbox.com/scl/fi/b8iuflmefm6pbc02wkmer/Ent_Appendix.pdf?rlkey=85wb7m78nhncx2rv0uhlvwya2&st=v912cy1b&dl=0) [[Poster]](https://www.dropbox.com/scl/fi/m1vab05x32xqagdtioplo/Ent_Poster.pdf?rlkey=utckzttthsvgz73lzfdbpnfgc&st=d8f3ex7p&dl=0)
 
@@ -43,20 +43,7 @@ Autocrats typically treat governance failures as political liabilities and seek 
 
 <div class="paper-card" markdown="1">
 
-\[2\] Deng, Rex Weiye. **Softening the Crisis: How Cultural Diplomacy Fosters Support for International Reconciliation.** _Under Review_.
-
-[//]: # [[Manuscipt]](https://www.dropbox.com/scl/fi/bwbaw0txju8veu96cadb9/Cul_Main.pdf?rlkey=txg104sq7ro9dg41ktq2ad9bj&st=2cm70wt2&dl=0) [[Appendix]](https://www.dropbox.com/scl/fi/v0erg739dukrq3gowvnt0/Cul_Appendix.pdf?rlkey=6gv3rgzefx7l643mv1il75qux&st=ms645d0x&dl=0)
-
-<details><summary>Abstract</summary>
-
-Does cultural diplomacy promote public support for international cooperation between rival states? While some high-profile cases have inspired optimism and states increasingly invest in soft-power diplomacy, its causal impact remains contested. I argue that when used as a conciliatory gesture, cultural diplomacy can enhance perceptions of a rival's sincerity, thereby increasing public support for reconciliation, including willingness to endorse low-stakes policy concessions. This effect likely operates through two mechanisms: (1) its public nature raises the reputational cost of reneging on a visible peace gesture (informational mechanism), and (2) it evokes positive emotions and humanizes adversaries (psychological mechanism). However, I do not expect it to increase support for riskier concessions. Evidence from two parallel survey experiments in the U.S. and China supports my argument. Further analysis shows that the psychological mechanism plays a determining role. This study highlights cultural diplomacy's peace-building potential and its psychological foundations for promoting international cooperation.
-</details>
-
-</div>
-
-<div class="paper-card" markdown="1">
-
-\[3\] Deng, Rex Weiye, [Taishi Muraoka](https://www.taishimuraoka.com/), and [Margit Tavits](https://sites.wustl.edu/mtavits/). **Exploiting Extremism: Strategic Responses of Radical Right Parties to Right-Wing Violence in Europe**. Under review.
+\[2\] Deng, Rex Weiye, [Taishi Muraoka](https://www.taishimuraoka.com/), and [Margit Tavits](https://sites.wustl.edu/mtavits/). **Exploiting Extremism: Strategic Responses of Radical Right Parties to Right-Wing Violence in Europe**. Revise and Resubmit.
 
 [//]: # [[Manuscipt & Appendix]](https://www.dropbox.com/scl/fi/149g16qkyrj9kgdr10hjp/RightWingTerrorism.pdf?rlkey=z4xygrzmbzdtednucw3abftno&st=upcfd2ep&dl=0)
 
@@ -69,7 +56,20 @@ How do radical right (RR) parties in Europe respond to rising levels of right-wi
 
 <div class="paper-card" markdown="1">
 
-\[4\] [Carter, David, B.](https://sites.wustl.edu/davidcarter/) and Rex Weiye Deng. **Does State-Led Development in Once Hard-to-Reach Places Cultivate Political Trust?** Under review.
+\[3\] Deng, Rex Weiye. **Softening the Crisis: How Cultural Diplomacy Fosters Support for International Reconciliation.** Under Review.
+
+[//]: # [[Manuscipt]](https://www.dropbox.com/scl/fi/bwbaw0txju8veu96cadb9/Cul_Main.pdf?rlkey=txg104sq7ro9dg41ktq2ad9bj&st=2cm70wt2&dl=0) [[Appendix]](https://www.dropbox.com/scl/fi/v0erg739dukrq3gowvnt0/Cul_Appendix.pdf?rlkey=6gv3rgzefx7l643mv1il75qux&st=ms645d0x&dl=0)
+
+<details><summary>Abstract</summary>
+
+Does cultural diplomacy promote public support for international cooperation between rival states? While some high-profile cases have inspired optimism and states increasingly invest in soft-power diplomacy, its causal impact remains contested. I argue that when used as a conciliatory gesture, cultural diplomacy can enhance perceptions of a rival's sincerity, thereby increasing public support for reconciliation, including willingness to endorse low-stakes policy concessions. This effect likely operates through two mechanisms: (1) its public nature raises the reputational cost of reneging on a visible peace gesture (informational mechanism), and (2) it evokes positive emotions and humanizes adversaries (psychological mechanism). However, I do not expect it to increase support for riskier concessions. Evidence from two parallel survey experiments in the U.S. and China supports my argument. Further analysis shows that the psychological mechanism plays a determining role. This study highlights cultural diplomacy's peace-building potential and its psychological foundations for promoting international cooperation.
+</details>
+
+</div>
+
+<div class="paper-card" markdown="1">
+
+\[4\] [Carter, David, B.](https://sites.wustl.edu/davidcarter/) and Rex Weiye Deng. **Does State-Led Development in Once Hard-to-Reach Places Cultivate Political Trust?** Under Review.
 
 [//]: # [[Manuscipt]](https://www.dropbox.com/scl/fi/duf492s2ngmj3ytb4tq5d/Terrain_Trust_Main.pdf?rlkey=p80m5l6xq0nu3kth0ef5jufrf&st=5qxyr9hv&dl=0) [[Appendix]](https://www.dropbox.com/scl/fi/zbqv4ldbe30o3d4cdylr8/Terrain_Trust_Appendix.pdf?rlkey=4karfprre4jaow64nijvbntiy&st=mqegq4mw&dl=0)
 
@@ -82,7 +82,7 @@ Conventional wisdom suggests that increased state presence in historically remot
 
 <div class="paper-card" markdown="1">
 
-\[5\] [Charaniya, Amaan](https://sites.wustl.edu/amaancharaniya/), Rex Weiye Deng, [Dahjin Kim](https://dahjinkim.github.io/), [Gechun Lin](https://lingechun.github.io/research/), [William Nomikos](https://www.williamgnomikos.com/), and [Ipek Ece Sener](https://ipekecesener.com/). **Can Leaders Shape Public Opinion During a Foreign Policy Crisis? Evidcence from U.S. Withdrawal from Afghanistan.** Under review.
+\[5\] [Charaniya, Amaan](https://sites.wustl.edu/amaancharaniya/), Rex Weiye Deng, [Dahjin Kim](https://dahjinkim.github.io/), [Gechun Lin](https://lingechun.github.io/research/), [William Nomikos](https://www.williamgnomikos.com/), and [Ipek Ece Sener](https://ipekecesener.com/). **Can Leaders Shape Public Opinion During a Foreign Policy Crisis? Evidcence from U.S. Withdrawal from Afghanistan.** Under Review.
 
 [//]: # \[Manuscript Available Upon Request\]
 
