@@ -24,7 +24,7 @@ Historically, good governance in established democracies has been a critical dri
 
 <div class="paper-card" markdown="1">
 
-\[1\] Deng, Rex Weiye. **Screened Realities: How Entertainment Fosters Political Compliance in Autocracies.** Revise and Resubmit.
+\[1\] Deng, Rex Weiye. **Screened Realities: How Entertainment Fosters Political Compliance in Autocracies.** Conditionally Accepted, _American Political Science Review_.
 
 [//]: # [[Manuscipt]](https://www.dropbox.com/scl/fi/isbdrin1zjo1fgea286n2/Ent_Main.pdf?rlkey=d5st5mcs8dl5uq81ap7s1g7l5&st=bx3idqw4&dl=0) [[Appendix]](https://www.dropbox.com/scl/fi/b8iuflmefm6pbc02wkmer/Ent_Appendix.pdf?rlkey=85wb7m78nhncx2rv0uhlvwya2&st=v912cy1b&dl=0) [[Poster]](https://www.dropbox.com/scl/fi/m1vab05x32xqagdtioplo/Ent_Poster.pdf?rlkey=utckzttthsvgz73lzfdbpnfgc&st=d8f3ex7p&dl=0)
 
