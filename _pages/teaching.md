@@ -9,7 +9,7 @@ author_profile: true
 
 <div class="paper-card" markdown="1">
 
-**Teaching Assistant**, Washington University in St. Louis &nbsp; [[Teaching Evaluation]](/files/teaching/TeachingEval.pdf)
+**Teaching Assistant**, Washington University in St. Louis
 
 - Introduction to Comparative Politics (Guillermo Rosas), Spring 2024, Undergraduate Level
 - Psychology of War (Carly Wayne), Fall 2023, Undergraduate Level
