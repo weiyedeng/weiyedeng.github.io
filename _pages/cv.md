@@ -7,8 +7,8 @@ redirect_from:
   - /resume
 ---
 
-[Download PDF](https://www.dropbox.com/scl/fi/kwq44yxqcinuuh2iolkg8/Deng_CV.pdf?rlkey=qcmfzyz1nmpjhqircb9bfg391&st=l1kqoiau&dl=0) (last updated: March 2026).
+[Download PDF](/files/cv/Deng_CV.pdf) (last updated: November 2026).
 
-<iframe src="/files/cv/Deng_CV.pdf" width="80%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+<iframe class="cv-embed" src="/files/cv/Deng_CV.pdf" title="Rex Weiye Deng curriculum vitae"></iframe>
 
 

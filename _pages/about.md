@@ -16,14 +16,13 @@ My research lies at the intersection of comparative politics and international r
 
 Specifically, I investigate **how political elites use communication and development strategies to overcome public skepticism and build support for their rule and policies in both domestic and international environments**. I am particularly interested in entertainment's role in shaping political outcomes. 
 
-<p align="center" style="display: flex; justify-content: center; flex-wrap: wrap;">
-  <img src="/_pages/aboutfigs/Gao_topleader.jpg" width="600" style="margin-bottom: 15px;"><br> 
-    <span style="font-size: 90%; font-style: italic;">
-    "China's political environment today is that the top leader has almost absolute power."
-  </span><br>
-  <span style="font-size: 90%; font-style: italic; font-weight: bold;">
-    — In the Name of the People (2017)
-  </span></p>
+<figure class="homepage-quote">
+  <img src="/_pages/aboutfigs/Gao_topleader.jpg" alt="A scene from the television drama In the Name of the People">
+  <figcaption>
+    <span class="homepage-quote__text">“In China’s current political environment, the top leader holds almost absolute power.”</span>
+    <cite>— <em>In the Name of the People</em> (2017)</cite>
+  </figcaption>
+</figure>
 
 I adopt a multi-method approach to advance my research, including experiments, computational methods, design-based causal inference, qualitative content analysis, and interviews.
 
